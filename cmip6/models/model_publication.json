@@ -1,7 +1,7 @@
 {
     "ecmwf-ifs-hr": {
         "toplevel": {
-            "publish": "off"
+            "publish": "on"
         }, 
         "atmos": {
             "publish": "off"
@@ -18,7 +18,7 @@
     }, 
     "ecmwf-ifs-lr": {
         "toplevel": {
-            "publish": "off"
+            "publish": "on"
         }, 
         "atmos": {
             "publish": "off"
@@ -35,7 +35,7 @@
     }, 
     "ecmwf-ifs-mr": {
         "toplevel": {
-            "publish": "off"
+            "publish": "on"
         }, 
         "atmos": {
             "publish": "off"
