@@ -52,7 +52,7 @@
         }, 
         "cmip6.toplevel.key_properties.software_properties.coupler": {
             "values": [
-                "Bespoke"
+                "Bespoke: Customised coupler developed for this model"
             ]
         }, 
         "cmip6.toplevel.key_properties.coupling.atmosphere_fluxes_calculation_grid": {
