@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "ecmwf", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "ecmwf-ifs-mr", 
+    "topic": "land", 
+    "content": {}
+}
